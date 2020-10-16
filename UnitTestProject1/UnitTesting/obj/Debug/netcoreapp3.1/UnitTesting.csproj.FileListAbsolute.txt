@@ -1,0 +1,12 @@
+D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTesting\bin\Debug\netcoreapp3.1\UnitTesting.exe
+D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTesting\bin\Debug\netcoreapp3.1\UnitTesting.deps.json
+D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTesting\bin\Debug\netcoreapp3.1\UnitTesting.runtimeconfig.json
+D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTesting\bin\Debug\netcoreapp3.1\UnitTesting.runtimeconfig.dev.json
+D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTesting\bin\Debug\netcoreapp3.1\UnitTesting.dll
+D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTesting\bin\Debug\netcoreapp3.1\UnitTesting.pdb
+D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTesting\obj\Debug\netcoreapp3.1\UnitTesting.AssemblyInfoInputs.cache
+D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTesting\obj\Debug\netcoreapp3.1\UnitTesting.AssemblyInfo.cs
+D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTesting\obj\Debug\netcoreapp3.1\UnitTesting.csproj.CoreCompileInputs.cache
+D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTesting\obj\Debug\netcoreapp3.1\UnitTesting.dll
+D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTesting\obj\Debug\netcoreapp3.1\UnitTesting.pdb
+D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTesting\obj\Debug\netcoreapp3.1\UnitTesting.genruntimeconfig.cache
