@@ -6,7 +6,7 @@ namespace UnitTesting
     {
         static void Main(string[] args)
         {
-            var numberGame = new NumberGame();
+            var numberGame = new NumberGame(new Die());
             var score = numberGame.RateGuess(5);
             Console.WriteLine($"uw score: {score}");
         }

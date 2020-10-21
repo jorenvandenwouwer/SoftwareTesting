@@ -4,7 +4,7 @@ using System.Text;
 
 namespace UnitTesting
 {
-    class Die
+    public class Die : IDie
     {
         private static readonly Random random = new Random();
         public int Roll()

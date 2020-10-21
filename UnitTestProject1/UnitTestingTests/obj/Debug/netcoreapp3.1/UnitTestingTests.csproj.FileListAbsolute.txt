@@ -90,8 +90,10 @@ D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTestingTe
 D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTestingTests\obj\Debug\netcoreapp3.1\UnitTestingTests.csprojAssemblyReference.cache
 D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTestingTests\obj\Debug\netcoreapp3.1\UnitTestingTests.AssemblyInfoInputs.cache
 D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTestingTests\obj\Debug\netcoreapp3.1\UnitTestingTests.AssemblyInfo.cs
-D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTestingTests\obj\Debug\netcoreapp3.1\UnitTestingTests.csproj.CoreCompileInputs.cache
 D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTestingTests\obj\Debug\netcoreapp3.1\UnitTestingTests.csproj.CopyComplete
 D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTestingTests\obj\Debug\netcoreapp3.1\UnitTestingTests.dll
 D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTestingTests\obj\Debug\netcoreapp3.1\UnitTestingTests.pdb
 D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTestingTests\obj\Debug\netcoreapp3.1\UnitTestingTests.genruntimeconfig.cache
+D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTestingTests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTestingTests\bin\Debug\netcoreapp3.1\Moq.dll
+D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTestingTests\obj\Debug\netcoreapp3.1\UnitTestingTests.csproj.CoreCompileInputs.cache

@@ -6,10 +6,10 @@ namespace UnitTesting
 {
     public class NumberGame
     {
-        private readonly Die _die;
-        public NumberGame()
+        private readonly IDie _die;
+        public NumberGame(IDie die)
         {
-            _die = new Die();
+            _die = die;
         }
         public int RateGuess(int guess)
         {

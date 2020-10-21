@@ -10,3 +10,4 @@ D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTesting\o
 D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTesting\obj\Debug\netcoreapp3.1\UnitTesting.dll
 D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTesting\obj\Debug\netcoreapp3.1\UnitTesting.pdb
 D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTesting\obj\Debug\netcoreapp3.1\UnitTesting.genruntimeconfig.cache
+D:\School\2020-2021\Software Testing\Unit Testing\UnitTestProject1\UnitTesting\obj\Debug\netcoreapp3.1\UnitTesting.csprojAssemblyReference.cache
