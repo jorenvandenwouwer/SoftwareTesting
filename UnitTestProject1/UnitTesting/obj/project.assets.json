@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\School\\2020-2021\\Software Testing\\Unit Testing\\UnitTestProject1\\UnitTesting\\UnitTesting.csproj",
+      "projectUniqueName": "D:\\School\\2020-2021\\Software Testing\\SoftwareTesting\\UnitTestProject1\\UnitTesting\\UnitTesting.csproj",
       "projectName": "UnitTesting",
-      "projectPath": "D:\\School\\2020-2021\\Software Testing\\Unit Testing\\UnitTestProject1\\UnitTesting\\UnitTesting.csproj",
+      "projectPath": "D:\\School\\2020-2021\\Software Testing\\SoftwareTesting\\UnitTestProject1\\UnitTesting\\UnitTesting.csproj",
       "packagesPath": "C:\\Users\\joren\\.nuget\\packages\\",
-      "outputPath": "D:\\School\\2020-2021\\Software Testing\\Unit Testing\\UnitTestProject1\\UnitTesting\\obj\\",
+      "outputPath": "D:\\School\\2020-2021\\Software Testing\\SoftwareTesting\\UnitTestProject1\\UnitTesting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

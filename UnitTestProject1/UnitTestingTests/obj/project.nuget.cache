@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Iws21tKSedf8KsEN0CmUkTsRsI0H2ba8tMgnwej2Kvd5aJxRXenx7zltECFqThuwLY+KFATvASr2MDpTJFTtSg==",
+  "dgSpecHash": "w5zKNRgJStNAwJmyxT5tNPx1vDSfaWErOrWR0gaobNTWBGJ3bGSrbEyA0WUSIiUG/9vA5lSTOdakGMv1dMDRZg==",
   "success": true,
-  "projectFilePath": "D:\\School\\2020-2021\\Software Testing\\Unit Testing\\UnitTestProject1\\UnitTestingTests\\UnitTestingTests.csproj",
+  "projectFilePath": "D:\\School\\2020-2021\\Software Testing\\SoftwareTesting\\UnitTestProject1\\UnitTestingTests\\UnitTestingTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joren\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\joren\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",

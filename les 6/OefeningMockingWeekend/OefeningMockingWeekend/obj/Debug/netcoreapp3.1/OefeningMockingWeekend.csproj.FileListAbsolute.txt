@@ -1,0 +1,27 @@
+C:\Users\Dimitri\source\repos\OefeningMockingWeekend\OefeningMockingWeekend\bin\Debug\netcoreapp3.1\OefeningMockingWeekend.exe
+C:\Users\Dimitri\source\repos\OefeningMockingWeekend\OefeningMockingWeekend\bin\Debug\netcoreapp3.1\OefeningMockingWeekend.deps.json
+C:\Users\Dimitri\source\repos\OefeningMockingWeekend\OefeningMockingWeekend\bin\Debug\netcoreapp3.1\OefeningMockingWeekend.runtimeconfig.json
+C:\Users\Dimitri\source\repos\OefeningMockingWeekend\OefeningMockingWeekend\bin\Debug\netcoreapp3.1\OefeningMockingWeekend.runtimeconfig.dev.json
+C:\Users\Dimitri\source\repos\OefeningMockingWeekend\OefeningMockingWeekend\bin\Debug\netcoreapp3.1\OefeningMockingWeekend.dll
+C:\Users\Dimitri\source\repos\OefeningMockingWeekend\OefeningMockingWeekend\bin\Debug\netcoreapp3.1\OefeningMockingWeekend.pdb
+C:\Users\Dimitri\source\repos\OefeningMockingWeekend\OefeningMockingWeekend\obj\Debug\netcoreapp3.1\OefeningMockingWeekend.csprojAssemblyReference.cache
+C:\Users\Dimitri\source\repos\OefeningMockingWeekend\OefeningMockingWeekend\obj\Debug\netcoreapp3.1\OefeningMockingWeekend.AssemblyInfoInputs.cache
+C:\Users\Dimitri\source\repos\OefeningMockingWeekend\OefeningMockingWeekend\obj\Debug\netcoreapp3.1\OefeningMockingWeekend.AssemblyInfo.cs
+C:\Users\Dimitri\source\repos\OefeningMockingWeekend\OefeningMockingWeekend\obj\Debug\netcoreapp3.1\OefeningMockingWeekend.dll
+C:\Users\Dimitri\source\repos\OefeningMockingWeekend\OefeningMockingWeekend\obj\Debug\netcoreapp3.1\OefeningMockingWeekend.pdb
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingWeekend\OefeningMockingWeekend\bin\Debug\netcoreapp3.1\OefeningMockingWeekend.exe
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingWeekend\OefeningMockingWeekend\bin\Debug\netcoreapp3.1\OefeningMockingWeekend.deps.json
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingWeekend\OefeningMockingWeekend\bin\Debug\netcoreapp3.1\OefeningMockingWeekend.runtimeconfig.json
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingWeekend\OefeningMockingWeekend\bin\Debug\netcoreapp3.1\OefeningMockingWeekend.runtimeconfig.dev.json
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingWeekend\OefeningMockingWeekend\bin\Debug\netcoreapp3.1\OefeningMockingWeekend.dll
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingWeekend\OefeningMockingWeekend\bin\Debug\netcoreapp3.1\OefeningMockingWeekend.pdb
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingWeekend\OefeningMockingWeekend\obj\Debug\netcoreapp3.1\OefeningMockingWeekend.csprojAssemblyReference.cache
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingWeekend\OefeningMockingWeekend\obj\Debug\netcoreapp3.1\OefeningMockingWeekend.AssemblyInfoInputs.cache
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingWeekend\OefeningMockingWeekend\obj\Debug\netcoreapp3.1\OefeningMockingWeekend.AssemblyInfo.cs
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingWeekend\OefeningMockingWeekend\obj\Debug\netcoreapp3.1\OefeningMockingWeekend.dll
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingWeekend\OefeningMockingWeekend\obj\Debug\netcoreapp3.1\OefeningMockingWeekend.pdb
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingWeekend\OefeningMockingWeekend\obj\Debug\netcoreapp3.1\OefeningMockingWeekend.genruntimeconfig.cache
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingWeekend\OefeningMockingWeekend\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingWeekend\OefeningMockingWeekend\bin\Debug\netcoreapp3.1\Moq.dll
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingWeekend\OefeningMockingWeekend\obj\Debug\netcoreapp3.1\OefeningMockingWeekend.csproj.CoreCompileInputs.cache
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingWeekend\OefeningMockingWeekend\obj\Debug\netcoreapp3.1\OefeningMockingWeekend.csproj.CopyComplete

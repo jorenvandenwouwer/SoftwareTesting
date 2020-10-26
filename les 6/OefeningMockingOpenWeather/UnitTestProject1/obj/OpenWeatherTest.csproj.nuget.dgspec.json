@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\School\\2020-2021\\Software Testing\\SoftwareTesting\\les 6\\OefeningMockingOpenWeather\\UnitTestProject1\\OpenWeatherTest.csproj": {}
+  },
+  "projects": {
+    "D:\\School\\2020-2021\\Software Testing\\SoftwareTesting\\les 6\\OefeningMockingOpenWeather\\OefeningMockingOpenWeather\\OefeningMockingOpenWeather.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\School\\2020-2021\\Software Testing\\SoftwareTesting\\les 6\\OefeningMockingOpenWeather\\OefeningMockingOpenWeather\\OefeningMockingOpenWeather.csproj",
+        "projectName": "OefeningMockingOpenWeather",
+        "projectPath": "D:\\School\\2020-2021\\Software Testing\\SoftwareTesting\\les 6\\OefeningMockingOpenWeather\\OefeningMockingOpenWeather\\OefeningMockingOpenWeather.csproj",
+        "packagesPath": "C:\\Users\\joren\\.nuget\\packages\\",
+        "outputPath": "D:\\School\\2020-2021\\Software Testing\\SoftwareTesting\\les 6\\OefeningMockingOpenWeather\\OefeningMockingOpenWeather\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\School\\2020-2021\\Software Testing\\SoftwareTesting\\les 6\\OefeningMockingOpenWeather\\UnitTestProject1\\OpenWeatherTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\School\\2020-2021\\Software Testing\\SoftwareTesting\\les 6\\OefeningMockingOpenWeather\\UnitTestProject1\\OpenWeatherTest.csproj",
+        "projectName": "OpenWeatherTest",
+        "projectPath": "D:\\School\\2020-2021\\Software Testing\\SoftwareTesting\\les 6\\OefeningMockingOpenWeather\\UnitTestProject1\\OpenWeatherTest.csproj",
+        "packagesPath": "C:\\Users\\joren\\.nuget\\packages\\",
+        "outputPath": "D:\\School\\2020-2021\\Software Testing\\SoftwareTesting\\les 6\\OefeningMockingOpenWeather\\UnitTestProject1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\School\\2020-2021\\Software Testing\\SoftwareTesting\\les 6\\OefeningMockingOpenWeather\\OefeningMockingOpenWeather\\OefeningMockingOpenWeather.csproj": {
+                "projectPath": "D:\\School\\2020-2021\\Software Testing\\SoftwareTesting\\les 6\\OefeningMockingOpenWeather\\OefeningMockingOpenWeather\\OefeningMockingOpenWeather.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.7, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

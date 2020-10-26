@@ -1,0 +1,21 @@
+C:\Users\Dimitri\source\repos\OefeningMockingOpenWeather\OefeningMockingOpenWeather\bin\Debug\netcoreapp3.1\OefeningMockingOpenWeather.exe
+C:\Users\Dimitri\source\repos\OefeningMockingOpenWeather\OefeningMockingOpenWeather\obj\Debug\netcoreapp3.1\OefeningMockingOpenWeather.csprojAssemblyReference.cache
+C:\Users\Dimitri\source\repos\OefeningMockingOpenWeather\OefeningMockingOpenWeather\obj\Debug\netcoreapp3.1\OefeningMockingOpenWeather.AssemblyInfoInputs.cache
+C:\Users\Dimitri\source\repos\OefeningMockingOpenWeather\OefeningMockingOpenWeather\obj\Debug\netcoreapp3.1\OefeningMockingOpenWeather.AssemblyInfo.cs
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingOpenWeather\OefeningMockingOpenWeather\bin\Debug\netcoreapp3.1\OefeningMockingOpenWeather.exe
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingOpenWeather\OefeningMockingOpenWeather\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingOpenWeather\OefeningMockingOpenWeather\obj\Debug\netcoreapp3.1\OefeningMockingOpenWeather.csprojAssemblyReference.cache
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingOpenWeather\OefeningMockingOpenWeather\obj\Debug\netcoreapp3.1\OefeningMockingOpenWeather.AssemblyInfoInputs.cache
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingOpenWeather\OefeningMockingOpenWeather\obj\Debug\netcoreapp3.1\OefeningMockingOpenWeather.AssemblyInfo.cs
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingOpenWeather\OefeningMockingOpenWeather\obj\Debug\netcoreapp3.1\OefeningMockingOpenWeather.csproj.CopyComplete
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingOpenWeather\OefeningMockingOpenWeather\bin\Debug\netcoreapp3.1\OefeningMockingOpenWeather.deps.json
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingOpenWeather\OefeningMockingOpenWeather\bin\Debug\netcoreapp3.1\OefeningMockingOpenWeather.runtimeconfig.json
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingOpenWeather\OefeningMockingOpenWeather\bin\Debug\netcoreapp3.1\OefeningMockingOpenWeather.runtimeconfig.dev.json
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingOpenWeather\OefeningMockingOpenWeather\bin\Debug\netcoreapp3.1\OefeningMockingOpenWeather.dll
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingOpenWeather\OefeningMockingOpenWeather\bin\Debug\netcoreapp3.1\OefeningMockingOpenWeather.pdb
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingOpenWeather\OefeningMockingOpenWeather\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingOpenWeather\OefeningMockingOpenWeather\bin\Debug\netcoreapp3.1\Moq.dll
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingOpenWeather\OefeningMockingOpenWeather\obj\Debug\netcoreapp3.1\OefeningMockingOpenWeather.csproj.CoreCompileInputs.cache
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingOpenWeather\OefeningMockingOpenWeather\obj\Debug\netcoreapp3.1\OefeningMockingOpenWeather.dll
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingOpenWeather\OefeningMockingOpenWeather\obj\Debug\netcoreapp3.1\OefeningMockingOpenWeather.pdb
+D:\School\2020-2021\Software Testing\SoftwareTesting\les 6\OefeningMockingOpenWeather\OefeningMockingOpenWeather\obj\Debug\netcoreapp3.1\OefeningMockingOpenWeather.genruntimeconfig.cache

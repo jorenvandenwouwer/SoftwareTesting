@@ -10,8 +10,7 @@ namespace UnitTesting.Tests
 {
     [TestClass()]
     public class NumberGameTests
-    {
-        
+    {        
         [TestMethod()]
         public void RateGuess_Returns_1_When_Guess_Is_Only_1_Wrong()
         {
