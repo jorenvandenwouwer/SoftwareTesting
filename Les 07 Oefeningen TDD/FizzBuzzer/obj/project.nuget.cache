@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eUs1K69Uo/lE4K1D5EXYRppneHKZ03BPeX+PYCaWoRTCofLlca9qEkis355ZeSDnpqCY3KqiFlyUWT1c4W697g==",
+  "success": true,
+  "projectFilePath": "D:\\School\\2020-2021\\Software Testing\\SoftwareTesting\\Les 07 Oefeningen TDD\\FizzBuzzer\\FizzBuzzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

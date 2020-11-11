@@ -1,0 +1,14 @@
+D:\School\2020-2021\Software Testing\SoftwareTesting\Les 07 Oefeningen TDD\FizzBuzz.Library\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\School\2020-2021\Software Testing\SoftwareTesting\Les 07 Oefeningen TDD\FizzBuzz.Library\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\School\2020-2021\Software Testing\SoftwareTesting\Les 07 Oefeningen TDD\FizzBuzz.Library\bin\Debug\netcoreapp3.1\nunit.engine.dll
+D:\School\2020-2021\Software Testing\SoftwareTesting\Les 07 Oefeningen TDD\FizzBuzz.Library\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\School\2020-2021\Software Testing\SoftwareTesting\Les 07 Oefeningen TDD\FizzBuzz.Library\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+D:\School\2020-2021\Software Testing\SoftwareTesting\Les 07 Oefeningen TDD\FizzBuzz.Library\bin\Debug\netcoreapp3.1\FizzBuzz.Library.deps.json
+D:\School\2020-2021\Software Testing\SoftwareTesting\Les 07 Oefeningen TDD\FizzBuzz.Library\bin\Debug\netcoreapp3.1\FizzBuzz.Library.dll
+D:\School\2020-2021\Software Testing\SoftwareTesting\Les 07 Oefeningen TDD\FizzBuzz.Library\bin\Debug\netcoreapp3.1\FizzBuzz.Library.pdb
+D:\School\2020-2021\Software Testing\SoftwareTesting\Les 07 Oefeningen TDD\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.AssemblyInfoInputs.cache
+D:\School\2020-2021\Software Testing\SoftwareTesting\Les 07 Oefeningen TDD\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.AssemblyInfo.cs
+D:\School\2020-2021\Software Testing\SoftwareTesting\Les 07 Oefeningen TDD\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.csproj.CoreCompileInputs.cache
+D:\School\2020-2021\Software Testing\SoftwareTesting\Les 07 Oefeningen TDD\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.dll
+D:\School\2020-2021\Software Testing\SoftwareTesting\Les 07 Oefeningen TDD\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.pdb
+D:\School\2020-2021\Software Testing\SoftwareTesting\Les 07 Oefeningen TDD\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.csprojAssemblyReference.cache

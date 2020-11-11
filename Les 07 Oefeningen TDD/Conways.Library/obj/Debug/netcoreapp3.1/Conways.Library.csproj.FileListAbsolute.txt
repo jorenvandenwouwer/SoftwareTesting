@@ -1,0 +1,9 @@
+D:\School\2020-2021\Software Testing\SoftwareTesting\Les 07 Oefeningen TDD\Conways.Library\bin\Debug\netcoreapp3.1\Conways.Library.deps.json
+D:\School\2020-2021\Software Testing\SoftwareTesting\Les 07 Oefeningen TDD\Conways.Library\bin\Debug\netcoreapp3.1\Conways.Library.dll
+D:\School\2020-2021\Software Testing\SoftwareTesting\Les 07 Oefeningen TDD\Conways.Library\bin\Debug\netcoreapp3.1\Conways.Library.pdb
+D:\School\2020-2021\Software Testing\SoftwareTesting\Les 07 Oefeningen TDD\Conways.Library\obj\Debug\netcoreapp3.1\Conways.Library.csprojAssemblyReference.cache
+D:\School\2020-2021\Software Testing\SoftwareTesting\Les 07 Oefeningen TDD\Conways.Library\obj\Debug\netcoreapp3.1\Conways.Library.AssemblyInfoInputs.cache
+D:\School\2020-2021\Software Testing\SoftwareTesting\Les 07 Oefeningen TDD\Conways.Library\obj\Debug\netcoreapp3.1\Conways.Library.AssemblyInfo.cs
+D:\School\2020-2021\Software Testing\SoftwareTesting\Les 07 Oefeningen TDD\Conways.Library\obj\Debug\netcoreapp3.1\Conways.Library.csproj.CoreCompileInputs.cache
+D:\School\2020-2021\Software Testing\SoftwareTesting\Les 07 Oefeningen TDD\Conways.Library\obj\Debug\netcoreapp3.1\Conways.Library.dll
+D:\School\2020-2021\Software Testing\SoftwareTesting\Les 07 Oefeningen TDD\Conways.Library\obj\Debug\netcoreapp3.1\Conways.Library.pdb
