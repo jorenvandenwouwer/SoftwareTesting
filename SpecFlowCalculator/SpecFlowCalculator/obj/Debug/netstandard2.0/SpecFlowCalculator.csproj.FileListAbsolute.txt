@@ -1,0 +1,9 @@
+D:\School\2020-2021\Software Testing\SoftwareTesting\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\netstandard2.0\SpecFlowCalculator.deps.json
+D:\School\2020-2021\Software Testing\SoftwareTesting\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\netstandard2.0\SpecFlowCalculator.dll
+D:\School\2020-2021\Software Testing\SoftwareTesting\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\netstandard2.0\SpecFlowCalculator.pdb
+D:\School\2020-2021\Software Testing\SoftwareTesting\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netstandard2.0\SpecFlowCalculator.csprojAssemblyReference.cache
+D:\School\2020-2021\Software Testing\SoftwareTesting\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netstandard2.0\SpecFlowCalculator.AssemblyInfoInputs.cache
+D:\School\2020-2021\Software Testing\SoftwareTesting\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netstandard2.0\SpecFlowCalculator.AssemblyInfo.cs
+D:\School\2020-2021\Software Testing\SoftwareTesting\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netstandard2.0\SpecFlowCalculator.csproj.CoreCompileInputs.cache
+D:\School\2020-2021\Software Testing\SoftwareTesting\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netstandard2.0\SpecFlowCalculator.dll
+D:\School\2020-2021\Software Testing\SoftwareTesting\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netstandard2.0\SpecFlowCalculator.pdb

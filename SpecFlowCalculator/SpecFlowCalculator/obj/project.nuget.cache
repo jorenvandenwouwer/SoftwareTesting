@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lzReGbX134vNL1TfbmyLHFxjefeLsl3dPfmTIjrd4vBrAEyVsTkccB5CcUBJCWcx64DQuSNpOEGD5X2BZDXX9w==",
+  "success": true,
+  "projectFilePath": "D:\\School\\2020-2021\\Software Testing\\SoftwareTesting\\SpecFlowCalculator\\SpecFlowCalculator\\SpecFlowCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

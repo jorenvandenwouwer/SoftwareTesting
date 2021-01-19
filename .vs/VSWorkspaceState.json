@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Les 07 Oefeningen TDD"
+    "\\Les 07 Oefeningen TDD",
+    "\\SeleniumTestBrowsers",
+    "\\SeleniumTestBrowsers\\SeleniumTestBrowsers",
+    "\\SeleniumTestBrowsers\\SeleniumTestBrowsers.Tests"
   ],
   "SelectedNode": "\\Les 07 Oefeningen TDD\\FizzBuzz.sln",
   "PreviewInSolutionExplorer": false
